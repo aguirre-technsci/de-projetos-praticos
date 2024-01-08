@@ -1,7 +1,7 @@
 import requests
 
 # Substitua 'SUA_CHAVE_API' pela chave de API que você obteve do Weatherstack
-API_KEY = 'ab7b224566c2b9789277089770839902'
+API_KEY = 'ENTER_API'
 
 # Função para obter dados meteorológicos com base nas coordenadas de latitude e longitude
 def obter_dados_meteorologicos(latitude, longitude):
