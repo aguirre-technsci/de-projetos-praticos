@@ -1,2 +1,1 @@
-# de-projetos-praticos
-aqui ficam armazenados os projetos práticos do que estudo
+AGUARDE, AINDA VOU ATUALIZAR TUDO ISSO
