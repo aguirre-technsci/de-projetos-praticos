@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Especificar o caminho completo para o arquivo Excel
-dataset = pd.read_excel('D:\\apresentar\\belem.xlsx')
+dataset = pd.read_excel('FILE_DIR')
 
 # Solicitar ao usuário as datas de início e término
 print("As datas vão de 01/01/1990 a 30/09/2023")
